@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @franklin
 - 👀 I’m interested in ...Technology
-- 🌱 I’m currently learning ...pyhon and powershell
+- 🌱 I’m currently learning ...python and powershell
 - 💞️ I’m looking to collaborate on ...ideas and innovation
 - 📫 How to reach me ...franklinrajsb@gmail.com
 
